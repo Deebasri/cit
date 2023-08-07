@@ -1,0 +1,44 @@
+.top-header{
+    background-color:#2596be;
+    color:azure;
+    justify-content: center;
+    box-sizing: border-box;
+    
+}
+.top-btn{
+    background-color:#bea925;
+    max-width: 190px;
+    margin: 60px;
+    padding-left: 20px;
+    border: 10px;
+    font-size: 25px;
+}
+.top-add{
+    margin: 30px;
+}
+h2{
+    margin: 2%;
+    text-align: center;
+    background-color: #bea925;
+}
+.intro{
+   
+    text-indent: 7%;
+    color: rgb(36, 33, 33);
+    max-width: 1300px;
+    margin: 20px;
+    padding-left: 210px;
+    padding-right: 50px;
+    font-size: 20px;
+}
+.col-lg-auto{
+    margin: 230px;
+}
+.vmiision{
+    background-image: url("vision_mission.jpg");
+}
+.vission{
+      max-width: 900px;
+      background-color: aliceblue;
+      opacity: inherit;
+}
